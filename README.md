@@ -8,4 +8,4 @@ A keyboard based game in the browser that let's you create great melodies at the
 
 ### Description
 
-I mainly used Howler.js for the sound effects for "key-press" events and Paper.js for animating the circles. Some CSS was obviously used for styling.
+I mainly used Howler.js for the sound effects for "key-press" events and Paper.js for animating the circles. Some CSS was used for colors and styling.
